@@ -1,0 +1,9 @@
+C:\Users\ross2\Desktop\진환이꺼\c# 200제\125번\125번\bin\Debug\125번.exe.config
+C:\Users\ross2\Desktop\진환이꺼\c# 200제\125번\125번\bin\Debug\125번.exe
+C:\Users\ross2\Desktop\진환이꺼\c# 200제\125번\125번\bin\Debug\125번.pdb
+C:\Users\ross2\Desktop\진환이꺼\c# 200제\125번\125번\obj\Debug\125번.csprojResolveAssemblyReference.cache
+C:\Users\ross2\Desktop\진환이꺼\c# 200제\125번\125번\obj\Debug\_125번.Properties.Resources.resources
+C:\Users\ross2\Desktop\진환이꺼\c# 200제\125번\125번\obj\Debug\125번.csproj.GenerateResource.cache
+C:\Users\ross2\Desktop\진환이꺼\c# 200제\125번\125번\obj\Debug\125번.csproj.CoreCompileInputs.cache
+C:\Users\ross2\Desktop\진환이꺼\c# 200제\125번\125번\obj\Debug\125번.exe
+C:\Users\ross2\Desktop\진환이꺼\c# 200제\125번\125번\obj\Debug\125번.pdb
